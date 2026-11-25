@@ -15,3 +15,5 @@ node main.ts
 ```
 
 This writes the joke to `/output/entry.txt`.
+
+Determinism: the program is deterministic — running it twice produces byte-identical output.
