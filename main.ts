@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 // Entry writes one original one-line joke to /output/entry.txt.
-const JOKE = "Our daily standup takes 45 minutes because nobody stands up and nobody is up for it.";
+const JOKE = "I automated my job and now I spend all day watching the automation do my job badly.";
 const OUTPUT_PATH = "/output/entry.txt";
 
 function main(): void {
