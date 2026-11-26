@@ -6,7 +6,7 @@
 
 This is a make.fun bounty entry: a deterministic program that writes one original one-line joke about office life to `/output/entry.txt`.
 
-> "Our daily standup takes 45 minutes because nobody stands up and nobody is up for it."
+> "I automated my job and now I spend all day watching the automation do my job badly."
 
 ## Run
 
